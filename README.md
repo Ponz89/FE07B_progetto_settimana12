@@ -2,7 +2,7 @@
 
 Installazioni:
 
-npm i
-npm install @auth0/angular-jwt
-npm run full-stack
-registrarsi ed accedere
+- npm i
+- npm install @auth0/angular-jwt
+- npm run full-stack
+- registrarsi ed accedere
